@@ -1,4 +1,4 @@
-<events xmlns="http://xmlns.opennms.org/xsd/eventconf"><!-- Start of auto generated data from MIB: FOUNDRY-SN-TRAP-MIB -->
+<events xmlns="https://xmlns.opennms.org/xsd/eventconf"><!-- Start of auto generated data from MIB: FOUNDRY-SN-TRAP-MIB -->
     <event>
         <mask>
             <maskelement>
